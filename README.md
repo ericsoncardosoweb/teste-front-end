@@ -1,6 +1,5 @@
-![Easynvest](https://user-images.githubusercontent.com/8808895/46966234-81191d00-d083-11e8-8da3-63d1f12e4365.png)
 
-# Teste de Front-end Easynvest
+# Teste de Front-End UX4YOU
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
 ### O Desafio
@@ -16,11 +15,11 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
  - Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
  - Os inputs de texto e botão devem ter a aparência conforme o guia de estilo abaixo (com validações);
  - Fazer a persistência dos dados no `localStorage` ou `IndexedDB`;
- - Não é permitido a utilização de nenhum framework ou o uso de qualquer biblioteca (exceto para testes unitário e tasks de build), recomendado uso de ECMAScript 6+;
+ - O uso de frameworks e bibliotecas como jQuery/VueJs/Angular/React são bem vindas, contudo valorizamos muito o javascript puro :) ES6+ na veia.
+ - Criar as telas em HTML puro / Tema Wordpress do zero / VueJs. Fica a seu critério.
 
-Para ter o estado inicial da lista de usuário utilizar este recurso abaixo:
+Para ter o estado inicial da lista de usuário utilizar o json do repositório:
 
-> GET https://private-21e8de-rafaellucio.apiary-mock.com/users
 
 Response:
 
@@ -95,13 +94,13 @@ Lista local:
  - A página ser responsiva;
  - Permitir edição;
  - Uso de pré-processador css;
+ - Usar Gulp para compilar o ES6 e SASS/STYLUS
  - Testes End to End;
 
 ### O que esperamos:
- - Testes, no mínimo testes unitários;
  - Padrão de Projeto e boas práticas de Orientação a Objetos;
  - Utilizar ECMAScript 6+;
- - Criar um passo a passo de como rodar sua aplicação [(Sugestão)](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md);
+ - Código limpo e organizado.
  - Criar uma breve descrição da solução utilizada.
 
 
@@ -148,3 +147,6 @@ Lista local:
 ![inputs](./images/form.png)
 
 ** Use sua criatividade para criar a página para listar os dados cadastrados **
+
+Lembre-se, neste teste o objetivo não é só testar o seu conhecimento, mas dar a oportunidade para você se destacar!
+PS: Procure cronometrar o seu tempo de desenvolvimento de teste. 
