@@ -102,6 +102,7 @@ Lista local:
  - Utilizar ECMAScript 6+;
  - Código limpo e organizado.
  - Criar uma breve descrição da solução utilizada.
+ - Criar um repositório no github e enviar o link do projeto. Caso seja entregue em wordpress só inclua a pasta do tema
 
 
 ## Guia de estilo
