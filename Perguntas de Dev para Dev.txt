@@ -1,0 +1,5 @@
+1 - Me conte uma breve descrição do que você define como a função de um desenvolvedor front end.
+
+2 - Qual a sua opinião sobre criar sites em Wordpress? E qual a diferença deste CMS para um app SPA? Tem alguma vantagem ou desvantagem?
+
+3 - Qual a sua visão sobre o conceito Mobile First?
